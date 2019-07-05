@@ -1,4 +1,18 @@
-theme: jekyll-theme-cayman
 title: Проект PaRus
 description: Parsed russian sentences
+theme: jekyll-theme-cayman
+show_downloads: true
+google_analytics:
+baseurl: /parus_site
 
+# files excluded from Jekyll builds
+exclude:
+- README.md
+- CNAME
+- LICENSE
+- Gemfile
+- Gemfile.lock
+
+# site settings
+encoding: utf-8
+lang: en-GB
