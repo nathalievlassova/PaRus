@@ -3,7 +3,6 @@ description: Parsed russian sentences
 theme: jekyll-theme-cayman
 show_downloads: true
 google_analytics:
-baseurl: /parus_site
 
 # files excluded from Jekyll builds
 exclude:
