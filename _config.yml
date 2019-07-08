@@ -2,4 +2,4 @@ title: Проект PaRus
 description: Parsed russian sentences
 theme: jekyll-theme-leap-day
 show_downloads: true
-
+baseurl: /PaRus
