@@ -2,4 +2,9 @@ title: Проект PaRus
 description: Parsed russian sentences
 theme: jekyll-theme-leap-day
 show_downloads: true
+google_analytics:
 baseurl: /PaRus
+
+# site settings
+encoding: utf-8
+lang: en-GB
